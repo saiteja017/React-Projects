@@ -1,0 +1,38 @@
+{
+  "address": [
+    {
+      "id": "1",
+      "username": "geetha",
+      "mobile": 912787237,
+      "area": "punjagutta",
+      "pincode": 500005
+    },
+    {
+      "id": "2",
+      "username": "geetha",
+      "mobile": 912787237,
+      "area": "punjagutta",
+      "pincode": 500005
+    },
+    {
+      "username": "mohammed asim",
+      "id": "3",
+      "area": "misri gunj",
+      "pincode": "50053",
+      "mobile": "9177896422"
+    },
+    {
+      "id": "4",
+      "username": "vamshi yadav",
+      "area": "kopulapally",
+      "pincode": "50021",
+      "mobile": "9392456587"
+    }
+  ],
+  "women": [
+    {
+      "id": "1",
+      "image": ""
+    }
+  ]
+}
